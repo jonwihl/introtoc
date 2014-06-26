@@ -19,7 +19,9 @@ int main(int argc, const char *argv[])
 	{
 		printf("correct\n");
 	}
-	else (x != 'h', 'e', 'l', 'o')
+	for (i = 0; i < 0; i++) {
+		/* code */
+	}
 	{
 		printf("incorrect\n");
 	}
